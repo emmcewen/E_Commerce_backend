@@ -5,14 +5,14 @@
 This is a MYSQL database application backend for an e-commerce style app or website. 
 
 ## Usage/Installation
-<li>Step 1: Run `mysql -u root -p`</li>
-<li>Step 2: Run `enter password`</li>
-<li>Step 3: Run `show databases`</li>
-<li>Step 4: Run `source db/schema.sql`</li>
-<li>Step 5: Run `quit`</li>
-<li>Step 6: Run `npm i`</li>
-<li>Step 7: Run `npm run seed</li>
-<li>Step 8: Run `npm run start`</li>
+<li>Step 1: Run mysql -u root -p</li>
+<li>Step 2: Run enter password</li>
+<li>Step 3: Run show databases</li>
+<li>Step 4: Run source db/schema.sql</li>
+<li>Step 5: Run quit</li>
+<li>Step 6: Run npm i</li>
+<li>Step 7: Run npm run seed</li>
+<li>Step 8: Run npm run start</li>
 
  After those steps are complete we will work on doing a GET, POST and DELETE in insomnia.
 
